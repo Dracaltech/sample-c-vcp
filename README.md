@@ -7,7 +7,7 @@ Running this repository requires you to have installed:
 - GCC (version >= 9.4.0)
 - Make (version >= 4.2.1)
 
-This repository makes use of library [**'libcrc'**](https://github.com/lammertb/libcrc/) - which is included as a built object (`libcrc.a`) in this repository. It is compiled based on the latest commit available at the time of writing ([2021-04-21](https://github.com/lammertb/libcrc/commit/7719e2112a9a960b1bba130d02bebdf58e8701f1)).
+This repository makes use of library [**'libcrc'**](https://github.com/lammertb/libcrc/) - which is included as a built object (`libcrc.a`) in this repository. It is compiled (_Ubuntu 20.04 LTS_) based on the latest commit available at the time of writing ([2021-04-21](https://github.com/lammertb/libcrc/commit/7719e2112a9a960b1bba130d02bebdf58e8701f1)).
 
 
 ## Simple usage
