@@ -25,6 +25,7 @@ Run
 ```
 
 ## Sample output
+<img src="https://github.com/Dracaltech/sample-c-vcp/assets/1357711/f97ecc9a-5e57-4e7e-9756-88717bce3e84" width=400 />
 
 
 ```
@@ -32,25 +33,25 @@ Run
 
 Poll interval set to 1000 ms
 
-VCP-PTH450-CAL E24638 @ 2024-03-07 12:54:29
-P = 100426 Pa
-T = 25.27 C
-H = 46.55 %
+VCP-PTH450-CAL E24638 @ 2024-03-08 11:22:09
+P = 99688 Pa
+T = 21.77 C
+H = 49.98 %
 
-VCP-PTH450-CAL E24638 @ 2024-03-07 12:54:30
-P = 100429 Pa
-T = 25.27 C
-H = 46.62 %
+VCP-PTH450-CAL E24638 @ 2024-03-08 11:22:10
+P = 99686 Pa
+T = 21.77 C
+H = 49.95 %
 
-VCP-PTH450-CAL E24638 @ 2024-03-07 12:54:32
-P = 100429 Pa
-T = 25.27 C
-H = 46.62 %
+VCP-PTH450-CAL E24638 @ 2024-03-08 11:22:12
+P = 99685 Pa
+T = 21.77 C
+H = 49.95 %
 
-VCP-PTH450-CAL E24638 @ 2024-03-07 12:54:33
-P = 100429 Pa
-T = 25.27 C
-H = 46.58 %
+VCP-PTH450-CAL E24638 @ 2024-03-08 11:22:13
+P = 99685 Pa
+T = 21.78 C
+H = 49.98 %
 ^C
-↑130 dracal/sample-c-vcp git:(main) ▶
+↑130 dracal/sample-c-vcp git:(main) ▶ 
 ```
